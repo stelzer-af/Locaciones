@@ -1,0 +1,41 @@
+<div class="panel panel-primary">
+    <div class="card-header">
+        {{pageTitle}}
+    </div>
+    <div class="panel-body">
+        <div class="container mat-small">
+            <form novalidate [formGroup]="locacionForm">
+                <div class="form-group">
+                    <mat-form-field style="margin: 5px;">
+                        <mat-label>Paises</mat-label>
+                        <mat-select class="form-element" id="paisesDropId" formControlName="paisesDrop"
+                            (selectionChange)="onPaisChange()">
+                            <mat-option *ngFor="let i of paises" [value]="i.nombre">
+                                {{i.nombre}}
+                            </mat-option>
+                        </mat-select>
+                    </mat-form-field>
+
+                    <mat-form-field style="margin: 5px;">
+                        <mat-label>Provincias</mat-label>
+                        <mat-select class="form-element" id="provinciasDropId" formControlName="provinciasDrop"
+                        (selectionChange)="onProvinciaChange()">
+                            <mat-option *ngFor="let i of provincias" [value]="i.nombre">
+                                {{i.nombre}}
+                            </mat-option>
+                        </mat-select>
+                    </mat-form-field>
+
+                    <mat-form-field style="margin: 5px;">
+                        <mat-label>Ciudades</mat-label>
+                        <mat-select class="form-element" id="ciudadesDropId" formControlName="ciudadesDrop">
+                            <mat-option *ngFor="let i of ciudades" [value]="i.nombre">
+                                {{i.nombre}}
+                            </mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
