@@ -1,0 +1,42 @@
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Api.deps.json
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Api.runtimeconfig.json
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Api.runtimeconfig.dev.json
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Api.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Api.pdb
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Dominio.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Servicios.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.pdb
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Servicios.pdb
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Dominio.pdb
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.csprojAssemblyReference.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.csproj.CoreCompileInputs.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.RazorAssemblyInfo.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.RazorAssemblyInfo.cs
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.AssemblyInfoInputs.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.AssemblyInfo.cs
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.csproj.CopyComplete
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Api.deps.json
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Api.runtimeconfig.json
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Api.runtimeconfig.dev.json
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Api.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Api.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Dominio.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Servicios.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Servicios.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.Dominio.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.csprojAssemblyReference.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.csproj.CoreCompileInputs.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.RazorAssemblyInfo.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.RazorAssemblyInfo.cs
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.AssemblyInfoInputs.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.AssemblyInfo.cs
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.csproj.CopyComplete
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.Api.pdb

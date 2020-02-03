@@ -1,0 +1,14 @@
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.deps.json
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.runtimeconfig.json
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.runtimeconfig.dev.json
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.csprojAssemblyReference.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.csproj.CoreCompileInputs.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.RazorAssemblyInfo.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.RazorAssemblyInfo.cs
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.AssemblyInfoInputs.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.AssemblyInfo.cs
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.RazorTargetAssemblyInfo.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\bin\Debug\netcoreapp2.2\Locaciones.pdb
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones\obj\Debug\netcoreapp2.2\Locaciones.pdb

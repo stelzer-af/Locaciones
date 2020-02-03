@@ -1,0 +1,32 @@
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.Servicios.deps.json
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.Servicios.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.Servicios.pdb
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.Dominio.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.Dominio.pdb
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.pdb
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\bin\Debug\netcoreapp2.2\System.Data.SqlClient.xml
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.csprojAssemblyReference.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.AssemblyInfoInputs.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.AssemblyInfo.cs
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.csproj.CopyComplete
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.Servicios.deps.json
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.Servicios.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.Servicios.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.Dominio.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.Dominio.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\bin\Debug\netcoreapp2.2\System.Data.SqlClient.xml
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.csprojAssemblyReference.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.AssemblyInfoInputs.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.AssemblyInfo.cs
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.csproj.CopyComplete
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Servicios\obj\Debug\netcoreapp2.2\Locaciones.Servicios.pdb

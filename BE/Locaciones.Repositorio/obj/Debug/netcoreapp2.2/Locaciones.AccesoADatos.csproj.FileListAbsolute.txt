@@ -1,0 +1,28 @@
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.deps.json
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.csprojAssemblyReference.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.AssemblyInfo.cs
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.pdb
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\Locaciones.Dominio.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\Locaciones.Dominio.pdb
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\System.Data.SqlClient.xml
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.csproj.CopyComplete
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.deps.json
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\Locaciones.AccesoADatos.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\Locaciones.Dominio.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\Locaciones.Dominio.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\bin\Debug\netcoreapp2.2\System.Data.SqlClient.xml
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.csprojAssemblyReference.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.AssemblyInfo.cs
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.csproj.CopyComplete
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Repositorio\obj\Debug\netcoreapp2.2\Locaciones.AccesoADatos.pdb

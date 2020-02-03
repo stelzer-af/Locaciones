@@ -1,0 +1,18 @@
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Dominio\bin\Debug\netcoreapp2.2\Locaciones.Dominio.deps.json
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Dominio\bin\Debug\netcoreapp2.2\Locaciones.Dominio.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Dominio\bin\Debug\netcoreapp2.2\Locaciones.Dominio.pdb
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.csprojAssemblyReference.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.AssemblyInfoInputs.cache
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.AssemblyInfo.cs
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.dll
+C:\Users\Steltec\Documents\Visual Studio 2017\Projects\Locaciones\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Dominio\bin\Debug\netcoreapp2.2\Locaciones.Dominio.deps.json
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Dominio\bin\Debug\netcoreapp2.2\Locaciones.Dominio.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Dominio\bin\Debug\netcoreapp2.2\Locaciones.Dominio.pdb
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.csprojAssemblyReference.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.AssemblyInfoInputs.cache
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.AssemblyInfo.cs
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.dll
+C:\Users\Steltec\Desktop\Locaciones\BE\Locaciones.Dominio\obj\Debug\netcoreapp2.2\Locaciones.Dominio.pdb
